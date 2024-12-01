@@ -35,6 +35,12 @@ From the above, it is evident that a lot of accidents occur during summer.
 ![accidents according to states](./assets/states_with_most_accidents.png)
 From the above, it is evident that a lot of accidents occur in California and Texas.
 
+## Makes with the highest number of accidents
+![top makes with accidents](./assets/top_makes_with_accidents.png)
+
+## Accidents according to purpose of flight
+![purpose of flight accidents](./assets/top_purposes_with_injuries.png)
+The above shows that most accidents involve personal flights
 
 
 
